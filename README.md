@@ -1,3 +1,3 @@
 # Mixed_Precision_Quantization
 
-We are going to publish our Mixed precision Quantizatio work at NeurIPS 24, will add the repository in a week
+We are going to publish this Mixed precision Quantization work at NeurIPS 24, will update this repository in a week
